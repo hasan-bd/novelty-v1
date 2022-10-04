@@ -1,10 +1,3 @@
-/**
-* Template Name: BizLand - v3.9.0
-* Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -300,7 +293,7 @@ h6 {
 }
 
 .navbar .dropdown ul li {
-  min-width: 200px;
+  min-width: 100px;
 }
 
 .navbar .dropdown ul a {
@@ -310,6 +303,7 @@ h6 {
 
 .navbar .dropdown ul a i {
   font-size: 12px;
+  /* min-width: 100px; */
 }
 
 .navbar .dropdown ul a:hover,
@@ -346,7 +340,7 @@ h6 {
 
   .navbar .dropdown .dropdown:hover>ul {
     /* left: -100%; */
-    right: -200%;
+    right: -250%;
   }
 }
 
